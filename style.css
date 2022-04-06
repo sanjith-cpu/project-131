@@ -1,0 +1,17 @@
+.heading {
+    padding: 20px;
+    background-color: red;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 100%;
+}
+a {
+font-size: 20px !important;
+width: 350px;
+border-radius: 10px !important;
+background-color: yellow;
+color: black;
+}
+a:hover {
+    background-color: red;
+  }
